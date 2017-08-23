@@ -4,6 +4,8 @@ A python script for parser API doc, and output Java files.
 ## How to use
 ./parser.py -p `PackageName`
 
-E.X.
+E.X.:
 
-  ./parser.py -p a.b.c
+```
+./parser.py -p a.b.c
+```
